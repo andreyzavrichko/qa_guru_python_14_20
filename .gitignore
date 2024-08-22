@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.env.bstack
+.env.credentials
+.env.local_emulator
+.env.local_real_device
 # C extensions
 *.so
 
